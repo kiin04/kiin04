@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kiin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thai
 ============================================================================================================================
 
 Web Developer and Design
@@ -7,7 +7,7 @@ Web Developer and Design
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [vietthai280904@gmail.com](mailto:vietthai280904@gmail.com)
 
-### Skills
+### My projects run on skills
 
 
 <p align="left">
